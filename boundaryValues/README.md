@@ -20,7 +20,7 @@ Generate text with ```x``` characters. For example an alphanumeric text with a l
 ```
 . randomAlphanumeric.sh 256
 ```
-Or you can create a numeric value that 33 characters long.
+Or you can create a numeric value that is 33 characters long.
 ```
 . randomNumeric.sh 33
 ```
