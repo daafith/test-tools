@@ -6,3 +6,4 @@ Simple but powerful scripts to aid in your testing activities
 | -------- |:-------------------------|:----------------------------------:|:---------:|
 | boundaryValues | file of size `x` | Boundary value tests for file uploads  | Bytes, MB, MiB |
 | ^^ | text of length `x` | Boundary value tests for input fields | Alphanumeric, numeric |
+| syntacticTesting | special characters | Validation for (input) fields |  |
